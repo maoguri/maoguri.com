@@ -1,3 +1,1 @@
-remote_theme: pages-themes/minimal@v0.2.0
-title: maoguri.com
-description: こんにちは、まおです。
+remote_theme: "jekyll/minima@1e8a445"
