@@ -1,3 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: maoguri.com
 description: 中小企業のIT運営を支援します！
+show_downloads: false
